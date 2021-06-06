@@ -1,9 +1,8 @@
 class LinkedList {
-    constructor()
-    {
-        this.head = null;
-        this.size = 0;
-    }
+	constructor() {
+		this.head = null;
+		this.size = 0;
+	}
 }
 
 add(element)

@@ -3,7 +3,7 @@ function quickSort(array) {
     return [];
   } else {
     const pivotValue = array[0];
-    
+
     let lesser = [];
     let equal = [];
     let greater = [];

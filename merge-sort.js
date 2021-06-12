@@ -1,3 +1,4 @@
+//O(n * log n)
 function mergeSort(arr) {
   if (arr.length < 2) return arr;
   var mid = Math.floor(arr.length / 2);

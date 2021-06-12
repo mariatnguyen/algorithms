@@ -1,3 +1,4 @@
+//O(n^2)
 function selectionSort(A) {
     var len = A.length;
     for (var i = 0; i < len - 1; i = i + 1) {

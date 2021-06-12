@@ -1,3 +1,4 @@
+//O(n^2) or O(n) in best case
 function bubbleSort(arr) {
   var i, j;
 

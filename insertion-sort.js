@@ -1,3 +1,4 @@
+//(O(n^2)) or O(n) in best case
 function insertionSort(A) {
     var len = array_length(A);
     var i = 1;

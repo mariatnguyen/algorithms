@@ -1,3 +1,4 @@
+//O(log n)
 function binarySearch(arr, item, low, high) {
     if (low > high) {
         return null;
